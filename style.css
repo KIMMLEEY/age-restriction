@@ -1,0 +1,14 @@
+label{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 5em;
+}
+button{
+    font-size: 1.5em;
+}
+p{
+    font-size: 1.8em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+input{
+    font-size: 1.5em;
+}
